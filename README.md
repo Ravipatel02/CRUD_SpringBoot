@@ -1,6 +1,15 @@
 # CRUD_SpringBoot
 Spring Boot Student Simple CRUD Application
 A simple Spring Boot project for managing information about student, including their name, city, and email. This project provides CRUD (Create, Read, Update, Delete) operations for managing people's data.
+
+# Tech Stack
+Java
+Spring Framework
+Spring Boot
+Spring Data JPA
+Hibernate
+MySQL
+
 ## Prerequisites
 
 Before you can run this project, ensure you have the following prerequisites:
